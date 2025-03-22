@@ -28,6 +28,9 @@ body{
     background-color:#63aac0;
 
 }
-.flash{
+.gameflash{
     background-color: blanchedalmond;
+}
+.userflash{
+    background-color: cornsilk;
 }
