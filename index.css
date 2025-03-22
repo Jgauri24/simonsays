@@ -1,36 +1,42 @@
-body{
-    background-color: blanchedalmond;
-    text-align: center;
+body {
+  background-color: blanchedalmond;
+  text-align: center;
+}
+h1{
+    color:rgb(38, 36, 36);
+    font-size: 47px;
+}
+h2{
+    color:rgb(53, 46, 46);
+    font-size: 27px;
+}
 
+.btn {
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 2.5rem;
 }
-.btn{
-    height:200px;
-    width:200px;
-    border-radius:20%;
-    border:10px solid black;
-    margin:2.5rem;
-
+.btn-container {
+  display: flex;
+  justify-content: center;
 }
-.btn-container{
-    display:flex;
-    justify-content: center;
+.orange {
+  background-color: #f7945a;
 }
-.orange{
-    background-color: #f99b45;
+.pink {
+  background-color: #d95980;
 }
-.pink{
-    background-color: #d95980;
+.blue {
+  background-color: #819ff9;
 }
-.blue{
-    background-color: #819ff9;
+.green {
+  background-color: #63aac0;
 }
-.green{
-    background-color:#63aac0;
-
+.gameflash {
+  background-color: rgb(46, 151, 46);
 }
-.gameflash{
-    background-color: rgb(46, 151, 46);
-}
-.userflash{
-    background-color: cornsilk;
+.userflash {
+  background-color: cornsilk;
 }
